@@ -18,6 +18,7 @@ I looked at the distributions of the data and the value counts for the various c
 ## Model Building 
 
 First, I deployed Linear Regression Model and Neural Network and compared to see which model yield better predictions. As described in the overview, the deep learning model was able to make better prediction of a variance score of 0.8
+
 ![alt text](https://github.com/ahnngo/Predicting-House-Prices-in-King-County-USA/blob/master/losses.png)
 ![alt text](https://github.com/ahnngo/Predicting-House-Prices-in-King-County-USA/blob/master/y_test_predictions.png)
 
