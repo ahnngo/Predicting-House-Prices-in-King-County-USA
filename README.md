@@ -1,4 +1,4 @@
-# Predicting Housing Prices: Project Overview 
+# Predicting House Prices in King County, USA: Project Overview 
 * Created a model that estimates housing price (Variance Score = 0.8) to help predict housing prices in King County based on house's features
 * Implemented Feature Engineer to punish outliers, decreasing MSE by $20k and MAE by $3k using a deep learning model
 * Improved Variance Score by 0.1, from 0.7 (Linear Regression model) to 0.8 by deploying a neural network with two hidden layers
